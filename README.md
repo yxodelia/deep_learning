@@ -3,6 +3,5 @@
 # 1. TensorFlow
 # 2. Keras
 # 3. 
-# 4.
 
 # Step1. digital recognition
